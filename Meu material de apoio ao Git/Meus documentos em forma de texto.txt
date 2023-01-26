@@ -1,0 +1,2 @@
+Criando meu primeiro repositorio no GitHub
+O Git bash e uma extensão de otimizar a mecher no Git.
